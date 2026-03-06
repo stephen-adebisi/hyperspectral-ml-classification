@@ -1,4 +1,5 @@
 # 🌍 Hyperspectral Pixel Classification with Machine Learning
+<img width="2570" height="1928" alt="classified_map" src="https://github.com/user-attachments/assets/24a29181-8cf6-466c-aadd-0f68523c7e10" />
 
 ## 🛰️ Project Overview
 
