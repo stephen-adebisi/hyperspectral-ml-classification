@@ -130,12 +130,12 @@ print(classification_report(y_test, predictions))
 ## 📈 Results
 
 The models produced different classification performances depending on their ability to capture spectral differences among land cover classes.
+Both Random Forest and SVM achieved the highest performance, reaching 98.8% overall accuracy.
+The SVM model was ultimately deployed to classify the full hyperspectral image and generate the final land cover map.
 
 ### Confusion Matrix
 
 ---
-
-### Example Classification Output
 
 ---
 
